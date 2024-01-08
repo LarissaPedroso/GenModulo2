@@ -1,0 +1,1 @@
+SELECT * FROM tb_escola WHERE notas > 7.0 ORDER BY nome ASC;

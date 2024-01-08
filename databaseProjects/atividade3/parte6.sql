@@ -1,0 +1,1 @@
+UPDATE tb_escola SET faltas = 11 WHERE id = 2 

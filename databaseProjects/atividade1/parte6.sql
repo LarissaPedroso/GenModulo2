@@ -1,0 +1,1 @@
+UPDATE tb_rh SET anoDeServico = 4 WHERE id = 5; 
